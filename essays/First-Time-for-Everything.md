@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Thoughts of the Day"
+title: "First Time for Everything"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 labels:
   - Web Design
   - JavaScript
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg" alt = "Score of jumping over a block">
+## First Time for Everything
+<img class="ui medium left floated image" src="../images/webdesign.jpeg" alt="Web Design Infographic">
 
 One of the first exposures I had with JavaScript was through teaching intermediate and high school students over the summer. While middle school students were being entertained by Gartic Phone, my team and I were scrambling to find ways to teach the students JavaScript. As time went on, We breezed through the units of HTML and CSS which the students picked up quickly, and we needed to find a lesson plan for the javascript unit.. While on the search, I stumbled upon the infamous Dinosaur Game for google. I then had the genius idea of replicating it using JavaScript and CSS properties. We then proceeded to teach the students how to do so, which proved to be a small, but good introduction for middle schoolers. 
 
