@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "bri111", "url": "http://github.com/bri111" },
-      { "network": "linkedin", "username": "briana lee", "url": "https://www.linkedin.com/in/briana-lee-78993b249/" },
-      { "network": "instagram", "username": "coldgingerchicken", "url": "http://instagram.com/coldgingerchicken" }
+      { "network": "linkedin", "username": "briana lee", "url": "https://www.linkedin.com/in/briana-lee-78993b249/" }
     ]
   },
   "interests": [
@@ -26,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS" ]
     }
   ],
   "education": [
@@ -37,59 +36,59 @@
       "startDate": "2021-08-13",
       "endDate": "Present",
       "courses": [
+        "ICS 111, ICS 211, ICS 212, MATH 241"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Native Hawaiian Science and Engineering Mentorship Program",
+      "position": "Undergraduate Assitant",
+      "website": "http://nhsemp.eng.hawaii.edu/",
+      "startDate": "2021-09-21",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain and update NHSEMP Scholar website",
+        "Assist with coordinating student-community activities or collaborations with other organizations"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "STEMworks Hawaii Internship",
+      "position": "PONOinfusions Intern",
+      "website": "https://www.stemworkshawaii.org/internships",
+      "startDate": "2021-06-12",
+      "endDate": "2021-07-21",
+      "summary": "STEMworks connects students with a host company to have real world experiences" 
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Host Company: PONOinfusions",
+        "Created and edited brochures, took pictures and videos, and various projects"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "ICSpark UH Manoa",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Student Mentor",
+      "startDate": "2022-12-19",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "A Registered Independent Organization (RIO) at the University of Hawaii that offers college student-lead coding youth programs",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Mentor 6-12 grade students in 3-month courses about the fundamentals of web development"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "NHSEMP and Nā Pua No'eau(NPN) N On Track ",
+      "website": "https://sites.google.com/hawaii.edu/ontrack/",
+      "position": "Beginning Coding 101, Intermediate Coding 202, Field Project 404 Mentor/Kumu",
+      "startDate": "2021-9-4",
+      "endDate": "Present",
+      "summary": "Collaboration beetween NHSEMP and NPN to inspire high school student to pursue STEM Fields",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Beginning Coding 101, Kumu, Fall 2021, Fall 2022",
+        "Intermediate Coding 202, Kumu, Spring 2022",
+        "Field Project 404, Mentor, Spring 2022, Spring 2023"
       ]
     }
   ],
@@ -98,13 +97,14 @@
       "title": "AFCEA Scholarship",
       "date": "2021-Present",
       "awarder": "AFCEA Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen, college students, teachers, and organizations in orde to enhance STEM Education in Hawaii."
+      "summary": ["Scholarships awarded to incoming freshmen, college students, teachers, and organizations in orde to enhance STEM Education in Hawaii.", 
+      "Awarded AY2021-22, AY 2022-2023"]
     },
     {
       "title": "Deans List",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "date": "Fall 2022",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Awarded to students who have earned a semester GPA of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [
