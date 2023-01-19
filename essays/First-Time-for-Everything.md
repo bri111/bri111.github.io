@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 ## First Time for Everything
-<img class="ui medium left floated image" src="../images/JavaScript#1 Game.png" alt="First JavaScript Game">
+<img class="ui medium left floated image" src="../img/JavaScript#1 Game.png" alt="First JavaScript Game">
 
 One of the first exposures I had with JavaScript was through teaching intermediate and high school students over the summer. While middle school students were being entertained by Gartic Phone, my team and I were scrambling to find ways to teach the students JavaScript. As time went on, We breezed through the units of HTML and CSS which the students picked up quickly, and we needed to find a lesson plan for the javascript unit.. While on the search, I stumbled upon the infamous Dinosaur Game for google. I then had the genius idea of replicating it using JavaScript and CSS properties. We then proceeded to teach the students how to do so, which proved to be a small, but good introduction for middle schoolers. 
 
