@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Thoughts of the Day"
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-24
+date: 2023-01-18
 labels:
   - Web Design
-  - UI Frameworks
-  - Semantic UI
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg" alt = "Score of jumping over a block">
