@@ -2,27 +2,25 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Encouragement Today"
+date: 2021
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - HTML
+  - CSS
+summary: "A web application to encourage people throughout the day."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-poster" src="../img/NHSEMPLAVALabPoster.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Encouragement today is a web application that I helped create as a summer research lab with LAVA Lab at UH Mānoa. The project helped me learn how to design and implement a web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with my first HTML, CSS, and JavaScript website that incorporates various Hawaiian quotes into this inspirational quote website. We used Microsoft Visual to create the website. 
 
-Here is some example code to illustrate Simple Schema use:
+This three-page HTML website contains CSS Framework for the user interface and design, and Javascript is used to reload the webpage and database for the quotes. 
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="http://www2.hawaii.edu/~brianall/">EncouragementToday/encourage</a>
+summer research lab with LAVA Lab at UH Mānoa.
