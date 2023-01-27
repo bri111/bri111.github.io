@@ -1,21 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "I Am Smart"
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 published: true
 labels:
-  - Questions
-  - Answers
+  - Smart Questions
+  - Smart Answers
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/helpme.png">
 
-## Is there such thing as a stupid question?
+## What is a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+To some, a stupid question could be, "How do I tie a simple knot?" To a child learning basic motor functions, this is a question that they need to do know to an adult, we should already know how to tie a simple knot. 
+
+Thankfully, google doesn't judge the type of questions we want Teachers always encourage students I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
 
 ## What’s a smart question?
 
