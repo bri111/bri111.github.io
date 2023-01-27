@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "I Am Smart"
+title: "Am I Being Smart?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-01-26
 published: true
 labels:
   - Smart Questions
@@ -15,9 +15,9 @@ labels:
 
 ## What is a stupid question?
 
-To some, a stupid question could be, "How do I tie a simple knot?" To a child learning basic motor functions, this is a question that they need to do know to an adult, we should already know how to tie a simple knot. 
+To some, a stupid question could be, "How do I tie a simple knot?" To a child learning basic motor functions, this is a question that they need to do know to an adult, we should already know how to tie a simple knot. Thankfully, google doesn't judge the type of questions we want to ask but if you ever watched <a If Google Was a Guyhref="https://www.youtube.com/watch?v=Cxqca4RQd_M">, I would say that no matter how hard he seemed to stay placant, you could feel a slight role of judgment rolling off his face. One of my favorite questions that I think is hard to understand without tone is "What song goes, meow, meow, meow...?" 
 
-Thankfully, google doesn't judge the type of questions we want Teachers always encourage students I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Teachers always encourage students I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
 
 ## What’s a smart question?
 
