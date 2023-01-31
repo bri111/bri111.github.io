@@ -12,7 +12,7 @@ labels:
 summary: "A web application to encourage people throughout the day."
 ---
 
-<img style="float: left" src="../img/encouragement-today/websitehomepage.png" width=300px>
+<img style="float: left" padding= 35px src="../img/encouragement-today/websitehomepage.png" width=300px>
 
 Encouragement today is a web application that I helped create as a summer research lab with LAVA Lab at UH Mānoa. The project helped me learn how to design and implement a web site.
 
