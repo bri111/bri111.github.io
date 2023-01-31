@@ -24,5 +24,7 @@ This three-page HTML website contains CSS Framework for the user interface and d
 
  
  <img class="img-flui" src="../img/encouragement-today/NHSEMPLAVALabPoster.png" width=700px>
+ 
+ <br>
 Source: <a href="http://www2.hawaii.edu/~brianall/">EncouragementToday/encourage</a>
 summer research lab with LAVA Lab at UH Mānoa.
