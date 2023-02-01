@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "First Time for Everything"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-06
+date: 2023-01-18
 labels:
   - Web Design
   - JavaScript
