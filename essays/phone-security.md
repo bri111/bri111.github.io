@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Security in Your Pocket"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-3-31
 published: true
 labels:
   - Learning
@@ -12,9 +12,8 @@ labels:
   - IoT
 ---
 
-<img width="700px" class="rounded float-start pe-4" src="../img/phone-security/phonephone.png">
-
 ## HON 101: Research Literature Review
+<img width="400px" class="rounded float-start pe-4" src="../img/phone-security/phonesecurity.png">
 In the 21st century, mobile phones are miniature computers carried in a person’s pocket or purse. These phones allow us to connect to our families, friends, and the world. They link us to our banks, shopping carts, games, and documents that are stored on our phones. With these newer technologies, security and privacy issues are on the rise. It is common to have antivirus software on our laptops and desktops but not so much on our mobile phones. Smaller storage and our phone company’s protection with 2-factor authentication seem to do the trick for most mobile users. Recent studies have shown that malware and security issues occur more frequently on android phones. Addressing these problems is the first step but why is this occurring and what security measures are already in place?
 
 The entire research paper started off with learning about antivirus software in personal computers. Reading Kevin Collier’s NBC news article about the worth of antivirus in computers got me thinking about the manufacturer’s responsibility to provide security for each and every one of their users. This eliminates competition from antivirus software companies such as McAfee, Norton, and Webroot. In “Evalulation of Security and Privacy of Smartphone Users,” compared the “two most important smart phone operating systems-Android and iOS.” An important part about this research is understanding the differences between the two operating systems and why both systems are unique. The compare and contrast in this article seemed to favor iOS devices due to the known security features that Apple has while Google’s open source android system needs to have some tweeks. 
