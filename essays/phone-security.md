@@ -29,6 +29,7 @@ In all of these articles, they gave me a deeper insight into what security syste
 Khandelwal and A. K. Mohapatra, "An insight into the security issues and their solutions for 
 	android phones," 2015 2nd International Conference on Computing for Sustainable 
 	Global Development (INDIACom), 2015, pp. 106-109. <a href="https://ieeexplore-ieee-org.eres.library.manoa.hawaii.edu/document/7100230">link</a> <br>
+	
 M. A. Dar, S. Nisar Bukhari and U. I. Khan, "Evaluation of Security and Privacy of Smartphone 
 	Users," 2018 Fourth International Conference on Advances in Electrical, Electronics, 
 	Information, Communication and Bio-Informatics (AEEICB), 2018, pp. 1-4, doi: 
