@@ -12,7 +12,7 @@ labels:
   - IoT
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/phone-security/phonephone.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/phone-security/phonephone.png">
 
 ## HON 101: Research Literature Review
 In the 21st century, mobile phones are miniature computers carried in a person’s pocket or purse. These phones allow us to connect to our families, friends, and the world. They link us to our banks, shopping carts, games, and documents that are stored on our phones. With these newer technologies, security and privacy issues are on the rise. It is common to have antivirus software on our laptops and desktops but not so much on our mobile phones. Smaller storage and our phone company’s protection with 2-factor authentication seem to do the trick for most mobile users. Recent studies have shown that malware and security issues occur more frequently on android phones. Addressing these problems is the first step but why is this occurring and what security measures are already in place?
