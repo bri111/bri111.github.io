@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/zumi/zumipic.png
+image: img/zumi/1.png
 title: "Computer Vision in Cars"
 date: 2022
 published: true
