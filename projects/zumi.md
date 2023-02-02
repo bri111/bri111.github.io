@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/zumi/zumipic.png
 title: "Cotton"
 date: 2022
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A small robotic robot from Zumi developed for Fall 2022 AI4All Programˆ."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/zumi/zumiObjective.png">
 
 ## AI4All Program Project
 Computer vision is a field of AI that allows computers to understand what pictures and videos mean and take actions based on what it sees. This can be used to detect objects, collect data, or even perform some human tasks. This is why car manufacturers are starting to use computer vision in their cars. Self driving cars are growing in popularity because of their many uses and safety features. For example, Teslas have auto stop features if the car almost hits something. Our group wants to introduce self-driving cars by demonstrating how a mini car would use computer vision. 
