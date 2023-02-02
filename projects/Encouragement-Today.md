@@ -9,7 +9,7 @@ labels:
   - Javascript
   - HTML
   - CSS
-summary: "A web application to encourage people throughout the day."
+summary: "A web application to encourage people throughout the day. Created by myself and another intern. We used the 'Olelo No'eau book for the hawaiian quotes."
 ---
 
 <img class="ui medium left floated image" src="../img/encouragement-today/websitehomepage.png" width=300px>
