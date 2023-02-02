@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/unity-project/unityPrimative.png
+image: img/unity-project/3.png 
 title: "Collect Them All"
 date: 2015
 published: true
