@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/encouragement-today/websitehomepage.png
+image: img/encouragement-today/2.png
 title: "Encouragement Today"
 date: 2021
 published: true
