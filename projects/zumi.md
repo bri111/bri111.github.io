@@ -11,8 +11,6 @@ labels:
 summary: "A small robotic robot from Zumi developed for Fall 2022 AI4All Programˆ."
 ---
 
-<img class="ui right medium floated image" width="300" src="../img/zumi/zumiObjective.png">
-
 ## AI4All Program Project
 Computer vision is a field of AI that allows computers to understand what pictures and videos mean and take actions based on what it sees. This can be used to detect objects, collect data, or even perform some human tasks. This is why car manufacturers are starting to use computer vision in their cars. Self driving cars are growing in popularity because of their many uses and safety features. For example, Teslas have auto stop features if the car almost hits something. Our group wants to introduce self-driving cars by demonstrating how a mini car would use computer vision. 
 
@@ -40,7 +38,7 @@ camera.start_camera() // starts zumi camera
 
 ```
 
-<img class="ui right medium floated image" width="250" src="../img/zumi/zumiObjectDetection.gif">  
+<img class="ui left medium float image" width="250" src="../img/zumi/zumiObjectDetection.gif">  
 Using IR sensors located in the front and back of the zumi helps identify the object's distance from another object. Using Zumi bots as a basis for identifying and locating objects, can be applied to industrial applications. Zumis creates a safe environment to test and implement a potential real world experience.
 
 
