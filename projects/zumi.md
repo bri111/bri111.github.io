@@ -40,7 +40,7 @@ camera.start_camera() // starts zumi camera
 
 ```
 
-<img align="left" width="250" src="../img/zumi/zumiObjectDetection.gif">  
+<img align="left" width="250" padding-right="20 src="../img/zumi/zumiObjectDetection.gif">  
 Using IR sensors located in the front and back of the zumi helps identify the object's distance from another object. Using Zumi bots as a basis for identifying and locating objects, can be applied to industrial applications. Zumis creates a safe environment to test and implement a potential real world experience.
 
 ## Sources
