@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/zumi/zumipic.png
-title: "Cotton"
+title: "Computer Vision in Cars"
 date: 2022
 published: true
 labels:
@@ -17,7 +17,7 @@ Computer vision is a field of AI that allows computers to understand what pictur
 The targeted audience for this project are those who are interested in learning about the applications of the codes we’ve been talking about into real life situations with the help of Zumi bots as our models. 
 
 ## Project Problem 
-Our problem we wanted to address is that modern computer vision technologies is changing the way we view self-driving cars. The idea of a self-driving car is innovative but there are still features in these types of cars that are not perfected. What are ways to spread knowledge and demonstrate computer vision for the general public?
+My group wanted to adress the problem that modern computer vision technologies is changing the way we view self-driving cars. The idea of a self-driving car is innovative but there are still features in these types of cars that are not perfected. What are ways to spread knowledge and demonstrate computer vision for the general public?
 
 ## Results for Object Detection
 ```cpp
