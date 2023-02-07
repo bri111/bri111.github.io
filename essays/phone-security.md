@@ -14,6 +14,17 @@ labels:
 
 ## HON 101: Research Literature Review
 <img width="400px" class="rounded float-start pe-4" src="../img/phone-security/phonesecurity.png">
+
+Many people think of “coding standards” in a trivial way—i.e. minutae such as how many spaces to indent, or whether you place the close-curly-brace on a new line by itself.
+
+I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
+
+After your first week of using ESLint with IntelliJ, what are your impressions? Are you finding that getting the green checkmark is painful, or useful, or both, or something else entirely?
+
+Write an interesting, informative essay on coding standards that addresses some or all of the above questions, or goes in a different direction entirely regarding coding standards. Make sure it provides your personal perspective and useful insights.
+
+- What did I mispell? Oh, I forgot to put to spell my variables correctly. 
+
 In the 21st century, mobile phones are miniature computers carried in a person’s pocket or purse. These phones allow us to connect to our families, friends, and the world. They link us to our banks, shopping carts, games, and documents that are stored on our phones. With these newer technologies, security and privacy issues are on the rise. It is common to have antivirus software on our laptops and desktops but not so much on our mobile phones. Smaller storage and our phone company’s protection with 2-factor authentication seem to do the trick for most mobile users. Recent studies have shown that malware and security issues occur more frequently on android phones. Addressing these problems is the first step but why is this occurring and what security measures are already in place?
 
 The entire research paper started off with learning about antivirus software in personal computers. Reading Kevin Collier’s NBC news article about the worth of antivirus in computers got me thinking about the manufacturer’s responsibility to provide security for each and every one of their users. This eliminates competition from antivirus software companies such as McAfee, Norton, and Webroot. In “Evalulation of Security and Privacy of Smartphone Users,” compared the “two most important smart phone operating systems-Android and iOS.” An important part about this research is understanding the differences between the two operating systems and why both systems are unique. The compare and contrast in this article seemed to favor iOS devices due to the known security features that Apple has while Google’s open source android system needs to have some tweeks. 
