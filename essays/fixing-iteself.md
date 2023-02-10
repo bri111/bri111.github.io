@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Fixing Itself
-“When it doubt, space it out.” In order to have proper or easily understandable code, creating set spaces or indentations allows code to look neat and professional. Mispelled words? Grammarly's green checkmark <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Grammarly_logo.svg" width="20"> won't appear and ask you if you meant to spell number one instead of numberOne. In coding there is no proper grammer or punctuation or grammatical errors we learned in english class that we need to follow. 
+“When it doubt, space it out.” In order to have proper or easily understandable code, creating set spaces or indentations allows code to look neat and professional. Mispelled words? Grammarly's green checkmark <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Grammarly_logo.svg" width="40"> won't appear and ask you if you meant to spell number one instead of numberOne. In coding there is no proper grammer or punctuation or grammatical errors we learned in english class that we need to follow. 
 
 Code already can be tricky to understand but readable code theotretically makes your program more successful, lower maintenance, and lower project failure. Without proper coding standards, you may realize you forgot to put a semi-colon and we all know the pain and headaches of just a small error that influences the performance of your entire code. Having a particular coding style engraned in your brain is a perquisite to acheive a more favorable outcome. 
 
