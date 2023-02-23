@@ -26,7 +26,7 @@ One of the challenges in order to understand the differences between a  Below I 
     <td><b style="font-size:30px">Recreation</b></td>
  </tr>
  <tr>
-    <td><img width="300" src=".../imgui-design/Screenshot 2023-02-23 at 12.27.40 PM.png"></td>
-    <td><img width="300" src=".../imgui-design/Screenshot 2023-02-23 at 12.27.47 PM.png"></td>
+    <td><img width="300" src="../imgui-design/Screenshot 2023-02-23 at 12.27.40 PM.png"></td>
+    <td><img width="300" src="../imgui-design/Screenshot 2023-02-23 at 12.27.47 PM.png"></td>
  </tr>
 </table>
