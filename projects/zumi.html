@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Computer Vision in Cars | Briana Lee | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/bri111.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Briana Lee | Professional Portfolio">
+    <meta property="og:url" content="https://bri111.github.io/projects/zumi.html">
+    <meta property="og:title" content="Computer Vision in Cars | Briana Lee | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/bri111.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Computer Vision in Cars | Briana Lee | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Briana Lee</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Computer Vision in Cars</h1>
+ <h2 id="ai4all-program-project">AI4All Program Project</h2>
+<p>Computer vision is a field of AI that allows computers to understand what pictures and videos mean and take actions based on what it sees. This can be used to detect objects, collect data, or even perform some human tasks. This is why car manufacturers are starting to use computer vision in their cars. Self driving cars are growing in popularity because of their many uses and safety features. For example, Teslas have auto stop features if the car almost hits something. Our group wants to introduce self-driving cars by demonstrating how a mini car would use computer vision.</p>
+
+<p>The targeted audience for this project are those who are interested in learning about the applications of the codes we’ve been talking about into real life situations with the help of Zumi bots as our models.</p>
+
+<h2 id="project-problem">Project Problem</h2>
+<p>My group wanted to adress the problem that modern computer vision technologies is changing the way we view self-driving cars. The idea of a self-driving car is innovative but there are still features in these types of cars that are not perfected. What are ways to spread knowledge and demonstrate computer vision for the general public?</p>
+
+<h2 id="results-for-object-detection">Results for Object Detection</h2>
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">zumi</span><span class="p">.</span><span class="n">mpu</span><span class="p">.</span><span class="n">calibrate_MPU</span><span class="p">()</span> <span class="c1">// calibrates the zumi's position</span>
+<span class="n">camera</span><span class="p">.</span><span class="n">start_camera</span><span class="p">()</span> <span class="c1">// starts zumi camera</span>
+   <span class="k">while</span> <span class="mi">1</span> <span class="o">==</span> <span class="mi">1</span><span class="o">:</span>
+      <span class="n">ir_readings</span> <span class="o">=</span> <span class="n">zumi</span><span class="p">.</span><span class="n">get_all_IR_data</span><span class="p">()</span> <span class="c1">// object detection sensors</span>
+      <span class="n">back_right_ir</span> <span class="o">=</span> <span class="n">ir_readings</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span>
+      <span class="n">back_left_ir</span> <span class="o">=</span> <span class="n">ir_readings</span><span class="p">[</span><span class="mi">4</span><span class="p">]</span>
+      
+      <span class="n">front_right_ir</span> <span class="o">=</span> <span class="n">ir_readings</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+      <span class="n">front_left_ir</span> <span class="o">=</span> <span class="n">ir_readings</span><span class="p">[</span><span class="mi">5</span><span class="p">]</span>
+      
+      <span class="k">if</span> <span class="n">front_left_ir</span> <span class="o">&lt;</span> <span class="mi">100</span><span class="o">:</span> 
+        <span class="n">zumi</span><span class="p">.</span><span class="n">reverse</span><span class="p">()</span>
+      <span class="k">if</span> <span class="n">back_right_ir</span> <span class="o">&lt;</span> <span class="mi">50</span><span class="o">:</span>
+        <span class="n">zumi</span><span class="p">.</span><span class="n">forward</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<p><img class="ui left medium float image" width="250" src="../img/zumi/zumiObjectDetection.gif" /><br />
+Using IR sensors located in the front and back of the zumi helps identify the object’s distance from another object. Using Zumi bots as a basis for identifying and locating objects, can be applied to industrial applications. Zumis creates a safe environment to test and implement a potential real world experience.</p>
+
+<h2 id="sources">Sources</h2>
+<p>Hemateja, A. V. N. M. (2021, December 21). Traffic sign dataset - classification. Kaggle. Retrieved November 2, 2022 <a href="https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification?resource=download">link</a></p>
+
+<p>Zumi. Robolink. (n.d.). Retrieved November 2, 2022 <a href="https://www.robolink.com/products/zumi">link</a></p>
+
+<p>What is Computer Vision? IBM. (n.d.). Retrieved November 2, 2022 <a href="https://www.ibm.com/topics/computer-vision">link</a></p>
+
+<p>Glace, B. (2022, May 31). Autonomous vehicles are driving computer vision into the future. Plainsight. Retrieved November 2, 2022 <a href="https://plainsight.ai/autonomous-vehicles-computer-vision/#:~:text=Computer%20vision%20is%20at%20the,to%20safely%20navigate%20the%20road.">link</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
