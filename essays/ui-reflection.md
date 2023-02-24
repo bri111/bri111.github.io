@@ -18,7 +18,7 @@ My entire CSS file is about 100 lines and some of these sections are unnecessary
 UI designs (User Interface) refers to creating buttons, visual elements, icons, or something visually appealing to the audience. UI designs focus on the color, typography, and the layouts which I find my favorite part of web programming. Bootstrap takes a different approach to CSS properties by using classes to simplify CSS properties and keeping it relevant to the website. I personally enjoyed the challenge of learning new ways to create a website that is more efficient especially with the Bootstrap documentation. 
 
 # Recreating a website
-Below I have recreated a google sites website using a UI framework. This is a demonstration of what I have learned. 
+Below I have recreated a google sites website using a UI framework. This is a demonstration of what I have learned. Given that the website wasn't perfect, it was a good start in understanding how Bootstrap works and the different frameworks it can produce. Web design is important in our day and age based on the amounts of websites we visit on a daily basis. The design, functionality and features matter and sometimes will deter someone from that website. 
 
 <div align="center">
   <table border="0">
