@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 ## Google is great!
-<img width="300px" class="ui medium left floated image" src="../img/helpme.jpg">
+<img  class="ui medium left floated image"  src="../img/helpme.jpg">
 To some, a stupid question could be, "How do I tie a simple knot?" To a child learning basic motor functions, this is a question that they need to do know to an adult, we should already know how to tie a simple knot. Thankfully, google doesn't judge the type of questions we want to ask but if you ever watched [If Google Was a Guy](https://www.youtube.com/watch?v=Cxqca4RQd_M), I would say that no matter how hard he seemed to stay placant, you could feel a slight role of judgment rolling off his face. One of my favorite questions that I think is hard to understand without tone is "What song goes, meow, meow, meow...?" Google goes through so many questions a day and produce an answer that may or may not be the oneyou are looking for based on what you have asked. 
 
 ## What is a stupid question?
