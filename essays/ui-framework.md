@@ -23,8 +23,8 @@ Below I have recreated a google sites website using a UI framework. This is a de
 <div align="center">
   <table border="0">
  <tr>
-    <td><b style="font-size:30px">Original</b></td>
-    <td><b style="font-size:30px">Recreation</b></td>
+    <td align="center"><b style="font-size:30px">Original</b></td>
+    <td align="center"><b style="font-size:30px">Recreation</b></td>
  </tr>
  <tr>
     <td><img width="500" src="../imgui-design/Screenshot 2023-02-23 at 12.27.40 PM.png"></td>
