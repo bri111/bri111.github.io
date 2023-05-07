@@ -10,7 +10,7 @@ labels:
   - Data Science
 ---
 <h2>January 24, 2023</h2>
-<img class="ui medium left floated image" src="../images/generic-computer-work-clipart.jpeg" alt="Working from Home">
+<img class="ui medium left floated image" src="https://cdn.mos.cms.futurecdn.net/oNLJzwArPTPtGsvPomLex7-415-80.jpg" alt="Working from Home">
 The date is January 24, 2023 and I am two weeks into my sixth semster. While this log is pretty late (I had plans on writing this over winter break, but things got too busy), better late than never :). I'm not going to talk with all the flowery language here because, quite frankly, it's boring! Anyway, I have recently fell back in love with data science. Having just finished two rigorous upper-level courses focused on data analysis and data visualization, I remembered why I decided to pursue this career track. For some odd reason, it's so easy to hyperfocus on data science projects when, comparably, it's like pulling teeth trying to get myself to pursue other topics. My guess is that I enjoy data science because, while it is mainly done through coding and statistics, I can apply it to a wide variety of fields and domains. Just last semester I built a classification forest on cancer malignancy! The dataset wasn't every extensive, but it was still exciting to be actively building models and performing my own analysis. As of right now, I'm pretty stressed with the deadlines and the projects that are expected of me these upcoming semesters (hello graduation!), but my previous mentor and director always said, "If you're not at least a little stressed before every performance, you'll end up boring the crowd. Look alive people!"
 
 <h2>May 12, 2022</h2>
