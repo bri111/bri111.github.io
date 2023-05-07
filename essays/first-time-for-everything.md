@@ -4,6 +4,7 @@ type: essay
 title: "First Time for Everything"
 # All dates must be YYYY-MM-DD format!
 date: 2022-02 -12
+published: true
 labels:
   - Web Design
   - JavaScript
