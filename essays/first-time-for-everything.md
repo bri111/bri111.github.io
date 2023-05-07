@@ -1,27 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "First Time for Everything"
+title: "Am I Being Smart?"
 # All dates must be YYYY-MM-DD format!
-date: 2022-02 -12
+date: 2023-01-26
 published: true
 labels:
-  - Web Design
-  - JavaScript
+  - Smart Questions
+  - Smart Answers
+  - StackOverflow
 ---
+## Google is great!
+<img width="300px" class="ui medium left floated image" src="../img/helpme.jpg">
+To some, a stupid question could be, "How do I tie a simple knot?" To a child learning basic motor functions, this is a question that they need to do know to an adult, we should already know how to tie a simple knot. Thankfully, google doesn't judge the type of questions we want to ask but if you ever watched [If Google Was a Guy](https://www.youtube.com/watch?v=Cxqca4RQd_M), I would say that no matter how hard he seemed to stay placant, you could feel a slight role of judgment rolling off his face. One of my favorite questions that I think is hard to understand without tone is "What song goes, meow, meow, meow...?" Google goes through so many questions a day and produce an answer that may or may not be the oneyou are looking for based on what you have asked. 
 
-## Beginning of a Journey
-<img class="ui medium left floated image" src="../img/JavaScript1Game.jpg" alt="JavaScript Game">
+## What is a stupid question?
+<img width="300px" class="ui medium right floated image" src="../img/stupidquestion.jpg">
+In a coding perspective, Stack Overflow gives people the ability to interact with each other instaed of a machine making the types of question you ask more important. Stack Overlow cannot guess what you want from them exactly because these are humans responding to these questions. A wonderufl thing about StackOverflow is that if the question is to broad, they will ask you something along the lines if you are human in order to control the amount of usage and data.
 
-One of the first exposures I had to JavaScript was through teaching intermediate and high school students over the summer. While middle school students were being entertained by Gartic Phone, my team and I were scrambling to find ways to teach the students JavaScript. As time went on, We breezed through the units of HTML and CSS which the students picked up quickly, and we needed to find a lesson plan for the javascript unit. While on the search, I stumbled upon the infamous Dinosaur Game for Google. I then had the genius idea of replicating it using JavaScript and CSS properties. We then proceeded to teach the students how to do so, which proved to be a small, but good introduction for middle schoolers. 
+## What’s a smart question?
+<img width="300px" class ="ui floated rounded image" src="../img/smartquestion.jpg">
+After reading through what I consider a smart question, I saw that they thanked a user for the insight the provided regarding the code. This user who asked a question also provided copyable code in order for people to assist him instead of screenshots. 
 
-## Thoughts of the Day
-
-Looking back at the code I wrote for that project, I can safely say that I can do better. For example, not knowing better, I used the unholy “var” instead of “let” or const when I declared my variables. The project was a wonderful introduction for middle schoolers, but as a college student, there was still a lot more to learn, which is where ICS 314 comes into the picture. 
-
-## Learning the Basics
-
-The big three in programming a website are HTML, CSS, and JavaScript. My websites mainly consisted of only HTML and CSS making the functionality of the website essentially bland seasoning. However, After going through the Free Code Camp and the athletic programming, I learned much more about javascript. For instance, I learned the importance of functions and how they are used in websites. 
-
-I know how much there is to learn, I’ve just started my journey, but I know how many opportunities there are in ICS 314, and I’m determined to take all of them.
-
+To take away from asking smart questions, you can potentially receive a positive outcome. Obviously, this does not mean you are guaranteed a positive or helpful response, but the goal of Stack Overflow is creating a space to ask and answer questions from people. A smart question comes with politeness and consideration as well as the resopndants who should respond when they have time and considerately. 
