@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" rc="../img/JavaScript1Game.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/JavaScript1Game.jpg">
 
 ## Beginning of a Journey
 
