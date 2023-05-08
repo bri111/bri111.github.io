@@ -4,6 +4,7 @@ type: essay
 title: "Creative Influences"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
+published: true
 labels:
   - Design Patterns
   - Software Design
