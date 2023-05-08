@@ -2,8 +2,9 @@
 layout: project
 type: project
 image: img/FlatmateLogo.png
-title: "Computer Vision in Cars"
-date: 2022
+title: "Flatmate Finder"
+# All dates must be YYYY-MM-DD format!
+date: 2023-05-12
 published: true
 labels:
   - Web Application
