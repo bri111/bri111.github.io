@@ -8,7 +8,7 @@ published: true
 labels:
   - AI
   - Machine Learning
-summary: "A small robotic robot from Zumi developed for Fall 2022 AI4All Programˆ."
+summary: "A small robotic robot from Zumi developed for Fall 2022 AI4All Program."
 ---
 
 ## AI4All Program Project
