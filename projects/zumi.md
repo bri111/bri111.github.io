@@ -42,6 +42,7 @@ camera.start_camera() // starts zumi camera
 
 Using IR sensors located in the front and back of the zumi helps identify the object's distance from another object. Using Zumi bots as a basis for identifying and locating objects, can be applied to industrial applications. Zumis creates a safe environment to test and implement a potential real world experience.
 
+<br>
 
 ## Sources
 Hemateja, A. V. N. M. (2021, December 21). Traffic sign dataset - classification. Kaggle. Retrieved November 2, 2022 <a href="https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification?resource=download">link</a>
