@@ -3,7 +3,6 @@ layout: project
 type: project
 image: img/FlatmateLogo.png
 title: "Flatmate Finder"
-# All dates must be YYYY-MM-DD format!
 date: 2023
 published: true
 labels:
