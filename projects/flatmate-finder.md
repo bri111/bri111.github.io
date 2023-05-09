@@ -13,11 +13,10 @@ labels:
   - Machine Learning
 summary: "A project to find the perfect flatmates for UH Manoa Students."
 ---
-<div align="center">
-  <img width="1350" src="../img/homepage.png">
-  <br>
-  </div>
 
+
+<img width="1350" src="../img/homepage.png">
+<br>
 <br>
 
 ## Find your perfect roommate
