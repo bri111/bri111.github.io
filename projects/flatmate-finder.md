@@ -15,7 +15,7 @@ labels:
 summary: "A project to find the perfect flatmates for UH Manoa Students."
 ---
 <div align="center">
-  <img src="../img/homepage.png">
+  <img width="850" src="../img/homepage.png">
   </div>
 
 ## Find your perfect roommate
