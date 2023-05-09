@@ -12,7 +12,7 @@ labels:
 summary: "A web application to encourage people throughout the day. Created by myself and another intern. We used the 'Olelo No'eau book for the hawaiian quotes."
 ---
 
-<img class="ui left floated image" src="../img/encouragement-today/websitehomepage.png" width=300px>
+<img class="rounded float-start pe-4" src="../img/encouragement-today/websitehomepage.png" width=300px>
 
 Encouragement today is a web application that I helped create as a summer research lab with LAVA Lab at UH Mānoa. The project helped me learn how to design and implement a web site.
 
