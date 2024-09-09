@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "bri111", "url": "http://github.com/bri111" },
-      { "network": "linkedin", "username": "briana lee", "url": "https://www.linkedin.com/in/briana-lee-78993b249/" }
+      { "network": "linkedin", "username": "briana lee", "url": "https://www.linkedin.com/in/briana-llee/" }
     ]
   },
   "interests": [
@@ -36,17 +36,42 @@
       "startDate": "2021-08-13",
       "endDate": "Present",
       "courses": [
-        "ICS 111, ICS 211, ICS 212, MATH 241"
+        "Introduction to Java I & II, C++, Calculus I & II, Algorithms, Machine-Lvl & Systems Programming, Software Engineering I & II"
       ]
     }
   ],
   "work": [
     {
+      "company": "Interstel Technologies (ClimbHI LeapStart Program)",
+      "position": "Intern",
+      "website": "https://www.interstel.tech/",
+      "startDate": "2023-07-31",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "A paid internship connecting with a local company to work on a project related to computer science in C++.",
+        "Duties include learning and using Docker for the iCOSMOS Swarm Tools, updating the Cosmos Docs website, and data collection for an ongoing project."
+      ]
+    },
+    {
+      "company": "National Security Innovation Network - 9th Mission Support Command, US Army",
+      "position": "Fellow",
+      "website": "https://nsin.mil/x-force/",
+      "startDate": "2024-6-3",
+      "endDate": "2024-8-10",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "A paid internship Worked with the U.S. Department of Defense to solve real-world national security challenges, leveraging Power BI to process and analyze vast datasets.", 
+        "Created comprehensive data visualizations and dashboards that provided clear and actionable insights.", 
+        "Prepared and delivered detailed briefings to senior executives, utilizing Power BI to effectively communicate complex information."
+      ]
+    },
+    {
       "company": "Native Hawaiian Science and Engineering Mentorship Program",
       "position": "Undergraduate Assitant",
       "website": "http://nhsemp.eng.hawaii.edu/",
-      "startDate": "2021-09-21",
-      "endDate": "Present",
+      "startDate": "2021-08-30",
+      "endDate": "2023-08-31",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain and update NHSEMP Scholar website",
