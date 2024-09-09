@@ -41,31 +41,7 @@
     }
   ],
   "work": [
-    {
-      "company": "Interstel Technologies (ClimbHI LeapStart Program)",
-      "position": "Intern",
-      "website": "https://www.interstel.tech/",
-      "startDate": "2023-07-31",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "A paid internship connecting with a local company to work on a project related to computer science in C++.",
-        "Duties include learning and using Docker for the iCOSMOS Swarm Tools, updating the Cosmos Docs website, and data collection for an ongoing project."
-      ]
-    },
-    {
-      "company": "National Security Innovation Network - 9th Mission Support Command, US Army",
-      "position": "Fellow",
-      "website": "https://nsin.mil/x-force/",
-      "startDate": "2024-6-3",
-      "endDate": "2024-8-10",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "A paid internship Worked with the U.S. Department of Defense to solve real-world national security challenges, leveraging Power BI to process and analyze vast datasets.", 
-        "Created comprehensive data visualizations and dashboards that provided clear and actionable insights.", 
-        "Prepared and delivered detailed briefings to senior executives, utilizing Power BI to effectively communicate complex information."
-      ]
-    },
+  
     {
       "company": "Native Hawaiian Science and Engineering Mentorship Program",
       "position": "Undergraduate Assitant",
