@@ -7,24 +7,10 @@
     "phone": "808-351-7313",
     "website": "https://bri111.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      {
-        "network": "github",
-        "username": "bri111",
-        "url": "http://github.com/bri111"
-      },
-      {
-        "network": "linkedin",
-        "username": "briana lee",
-        "url": "https://www.linkedin.com/in/briana-llee/"
-      }
+      { "network": "github", "username": "bri111", "url": "http://github.com/bri111" },
+      { "network": "linkedin", "username": "briana lee", "url": "https://www.linkedin.com/in/briana-lee-78993b249/" }
     ]
   },
   "interests": [
@@ -35,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Javascript", "HTML", "CSS"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "WindowsOS"]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS" ]
     }
   ],
   "education": [
@@ -50,17 +36,17 @@
       "startDate": "2021-08-13",
       "endDate": "Present",
       "courses": [
-        "Introduction to Java I & II, C++, Calculus I & II, Algorithms, Machine-Lvl & Systems Programming, Software Engineering I & II"
+        "ICS 111, ICS 211, ICS 212, MATH 241"
       ]
     }
   ],
   "work": [
     {
       "company": "Native Hawaiian Science and Engineering Mentorship Program",
-      "position": "Undergraduate Assistant",
+      "position": "Undergraduate Assitant",
       "website": "http://nhsemp.eng.hawaii.edu/",
-      "startDate": "2021-08-30",
-      "endDate": "2023-08-31",
+      "startDate": "2021-09-21",
+      "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain and update NHSEMP Scholar website",
@@ -73,7 +59,7 @@
       "website": "https://www.stemworkshawaii.org/internships",
       "startDate": "2021-06-12",
       "endDate": "2021-07-21",
-      "summary": "STEMworks connects students with a host company to have real world experiences",
+      "summary": "STEMworks connects students with a host company to have real world experiences", 
       "highlights": [
         "Host Company: PONOinfusions",
         "Created and edited brochures, took pictures and videos, and various projects"
@@ -87,18 +73,18 @@
       "position": "Student Mentor",
       "startDate": "2022-12-19",
       "endDate": "Present",
-      "summary": "A Registered Independent Organization (RIO) at the University of Hawaii that offers college student-led coding youth programs",
+      "summary": "A Registered Independent Organization (RIO) at the University of Hawaii that offers college student-lead coding youth programs",
       "highlights": [
         "Mentor 6-12 grade students in 3-month courses about the fundamentals of web development"
       ]
     },
     {
-      "organization": "NHSEMP and Nā Pua No'eau(NPN) N On Track",
+      "organization": "NHSEMP and Nā Pua No'eau(NPN) N On Track ",
       "website": "https://sites.google.com/hawaii.edu/ontrack/",
       "position": "Beginning Coding 101, Intermediate Coding 202, Field Project 404 Mentor/Kumu",
-      "startDate": "2021-09-04",
+      "startDate": "2021-9-4",
       "endDate": "Present",
-      "summary": "Collaboration between NHSEMP and NPN to inspire high school students to pursue STEM fields",
+      "summary": "Collaboration beetween NHSEMP and NPN to inspire high school student to pursue STEM Fields",
       "highlights": [
         "Beginning Coding 101, Kumu, Fall 2021, Fall 2022",
         "Intermediate Coding 202, Kumu, Spring 2022",
@@ -111,7 +97,8 @@
       "title": "AFCEA Scholarship",
       "date": "2021-Present",
       "awarder": "AFCEA Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen, college students, teachers, and organizations in order to enhance STEM education in Hawaii. Awarded AY2021-22, AY 2022-2023."
+      "summary": ["Scholarships awarded to incoming freshmen, college students, teachers, and organizations in orde to enhance STEM Education in Hawaii.", 
+      "Awarded AY2021-22, AY 2022-2023"]
     },
     {
       "title": "Deans List",
