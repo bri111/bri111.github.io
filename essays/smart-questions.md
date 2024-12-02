@@ -13,10 +13,12 @@ labels:
 ## Google is great!
 <img width="300px" class="rounded float-start pe-4" src="../img/helpme.jpg">
 To some, a stupid question could be, "How do I tie a simple knot?" To a child learning basic motor functions, this is a question that they need to know to an adult; we should already know how to tie a simple knot. Thankfully, google doesn't judge the type of questions we want to ask, but if you ever watched [If Google Was a Guy](https://www.youtube.com/watch?v=Cxqca4RQd_M), I would say that no matter how hard he seemed to stay pleasant, you could feel a slight role of judgment rolling off his face. One of my favorite questions that I think is hard to understand without tone is, "What song goes, meow, meow, meow...?" Google goes through so many questions a day and produces an answer that may or may not be the one you are looking for based on what you have asked. <br>
+---
 
 ## What is a stupid question?
 <img width="300px" class="rounded float-start pe-4" src="../img/stupidquestion.jpg">
 From a coding perspective, Stack Overflow gives people the ability to interact with each other instead of a machine, making the types of questions you ask more important. Stack Overflow cannot guess exactly what you want from them because these humans respond to these questions. A wonderful thing about StackOverflow is that if the question is too broad, they will ask you something along the lines of you are human in order to control the amount of usage and data. <br>
+---
 
 ## What’s a smart question?
 <img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg">
