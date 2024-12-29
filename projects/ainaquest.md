@@ -30,4 +30,4 @@ Further development with new development teams will incorporate ʻŌlelo Hawaiʻ
 
 <hr>
 
-Source: <a href="https://drive.google.com/file/d/1_4mgqJ3w_8mVMvOgJixlySMCIauWSbtT/view?usp=sharing"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://drive.google.com/file/d/1_4mgqJ3w_8mVMvOgJixlySMCIauWSbtT/view?usp=sharing"><i class="large github icon "></i>Demonstration</a>
